@@ -2,7 +2,7 @@
 Google Project Management Capstone Project
 
 Overview
-Sauce & Spoon was my capstone project for the Google Project Management course. During the project I:
+Sauce & Spoon was my capstone project for the Google Project Management course. During the project
 
 Analyzed project documents and supporting materials to identify project requirements, evaluate stakeholders and problem-solve.
 
